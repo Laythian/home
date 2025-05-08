@@ -1,2 +1,0 @@
-# Dit is een testbestand
-print("Hallo, GitHub!")
